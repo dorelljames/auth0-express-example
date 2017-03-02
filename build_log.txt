@@ -1,0 +1,15 @@
+
+=====================================================
+Running site build at Thu Mar  2 14:22:29 PHT 2017.
+=====================================================
+Pulling latest updates from remote repository...
+Already up-to-date.
+Installing packages...
+Done installing packages!
+Building site...
+Build site successful!
+====================================================
+Done
+====================================================
+
+
